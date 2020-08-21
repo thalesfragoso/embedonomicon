@@ -1,0 +1,12 @@
+[package]
+authors = ["Thales Fragoso <thales.fragosoz@gmail.com>"]
+edition = "2018"
+name = "big-types"
+version = "0.1.0"
+
+[dependencies]
+
+[dev-dependencies]
+cortex-m-rt = "0.6.12"
+bare-metal = "1.0.0"
+cortex-m = "0.6.3"
